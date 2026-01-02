@@ -12,9 +12,7 @@ The system is fully config-driven, extensible, and designed using clean OOP prin
 
 ## Architecture
 
-## System Architecture
-
-(/Api_gateway_architecture.png)
+![API Gateway Architecture](/Api_gateway_architecture.png)
 
 ```
 Client
